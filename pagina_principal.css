@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    
+}
+
+.enter{
+    font-family: 'Courier New', Courier, monospace ;
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    bottom: 0;
+    margin: 21% 10%;
+}
+
+#circulo {
+    background: grey;
+    border-radius: 70%;
+    width: 250px;
+    height: 250px;
+    margin: 21% 9.5%;
+    opacity: 0.2;
+}
+
+body:hover{
+    cursor: pointer;
+    animation: cor 5s infinite;
+}
+
+@keyframes cor{
+    0%{background-color: rgb(206, 17, 17);}
+    15%{background-color: rgba(146, 6, 6, 0.788);}
+    30%{background-color: rgb(131, 39, 16);}
+    50%{background-color: rgb(196, 78, 11);}
+    75%{background-color: rgb(187, 108, 5);}
+    100%{background-color: rgb(233, 233, 70);}
+}
+
+.botao{
+    font-family: 'Courier New', Courier, monospace ;
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    bottom: 0;
+    margin: 20% 70%;
+}
+
