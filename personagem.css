@@ -31,3 +31,53 @@ label {
     padding: 10px 20px;
     cursor: pointer;
 }
+
+#t{
+    width: 100px;
+    margin-top: -50%;
+    position:absolute;
+    margin-right: -50%;
+}
+
+#r{
+    width: 100px;
+    margin-top: 35%;
+    position:absolute;
+}
+
+#a{
+    width: 100px;
+    margin-top: 35%;
+    position:absolute;
+}
+
+#s{
+    width: 100px;
+    margin-top: 35%;
+    position:absolute;
+
+}
+
+#l{
+    width: 100px;
+    margin-top: 35%;
+    position:absolute;
+}
+
+#j{
+    width: 100px;
+    margin-top: 25%;
+    position:absolute;
+}
+
+#c{
+    width: 100px;
+    margin-top: 10%;
+    position:absolute;
+}
+
+#n{
+    width: 100px;
+    margin-top: 45%;
+    position:absolute;
+}
