@@ -1,18 +1,17 @@
 const questions = [
     {
-        question: "Qual mundo é mai atraente para você?",
-        options: ["Um univers de fada e sere mágicos, bonitos e misteriosos", "", "Paris", "Rome"],
-        correctAnswer: "Paris"
+        question: "Qual mundo é mais atraente para você?",
+        options: ["Um universo de fadas e seres mágicos, bonitos e misteriosos", "Um mundo utópico problemático, a espera de alguém para liderar uma revolução", "Um lugar misterioso onde assasinatos acontecem frequentemente"],
+
     },
     {
-        question: "Which planet is known as the Red Planet?",
-        options: ["Mars", "Venus", "Jupiter", "Saturn"],
-        correctAnswer: "Mars"
+        question: "Quais caracteristicas você admira em um amigo?",
+        options: ["Organizada, Eficiente, Leal, Determinada", "Charmoso, Boa comunicação, Miss simpátia", "Aparece nos momentos certos, Gosta de crianças, Atrativo", "Saturn"],
+    
     },
     {
         question: "Who wrote 'Romeo and Juliet'?",
         options: ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
-        correctAnswer: "William Shakespeare"
     }
 ];
 

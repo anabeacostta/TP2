@@ -41,26 +41,30 @@ label {
 
 #r{
     width: 100px;
-    margin-top: 35%;
+    margin-top: 25%;
     position:absolute;
+    margin-left: -207px;
 }
 
 #a{
     width: 100px;
-    margin-top: 35%;
+    margin-top: 10%;
     position:absolute;
+    margin-left: -529px;
 }
 
 #s{
     width: 100px;
-    margin-top: 35%;
+    margin-top: 10%;
     position:absolute;
+    margin-left: -360px;
 
 }
 
 #l{
     width: 100px;
-    margin-top: 35%;
+    margin-top: 10%;
+    margin-left: -207px;
     position:absolute;
 }
 
@@ -78,6 +82,12 @@ label {
 
 #n{
     width: 100px;
-    margin-top: 45%;
+    margin-top: 25%;
     position:absolute;
+    margin-left: -360px;
+}
+
+.pesonagens{
+    width: 100px;
+    height: 100px;
 }
