@@ -1,5 +1,6 @@
 body{
     background-color: black;
+   
     
 }
 
@@ -17,16 +18,16 @@ body{
 
 body:hover{
     cursor: pointer;
-    animation: cor 5s infinite;
+    animation: cor 7s infinite;
 }
 
 @keyframes cor{
-    0%{background-color: rgb(206, 17, 17);}
-    15%{background-color: rgba(146, 6, 6, 0.788);}
-    30%{background-color: rgb(131, 39, 16);}
-    50%{background-color: rgb(196, 78, 11);}
-    75%{background-color: rgb(187, 108, 5);}
-    100%{background-color: rgb(233, 233, 70);}
+    0%{background-color: #ABDEE6;}
+    15%{background-color: #8FCACA;}
+    30%{background-color: #CCE2CB;}
+    50%{background-color: #B6CFB6;}
+    75%{background-color: #97C1A9;}
+    100%{background-color: #8dc2a4;}
 }
 
 .botao{
@@ -39,3 +40,57 @@ body:hover{
     margin: 20% 70%;
 }
 
+h1{
+    color: white;
+    text-align: center;
+    font-family: magic;
+    font-size: 255%;
+}
+
+h1{text-shadow: 0.1em 0.1em 0.2em brown}
+
+@font-face {
+    font-family: magic;
+    src: url(magical_signature/Magical\ Signature\ Personal\ Use\ Only.ttf);
+}
+
+#portavelha{
+    height: 334px;
+    margin-left: 62px;
+    opacity: 16%;
+}
+#portacolorida {
+    height: 428px;
+    margin-left: 50px;
+    opacity: 16%;
+}
+#portasemgraca {
+    height: 342px;
+    width: 274px;
+    margin-left: 52px;
+    opacity: 16%;
+}
+.enter{
+    display: inline-block;
+      padding: 10px 20px;
+      font-size: 16px;
+      text-align: center;
+      text-decoration: none;
+      cursor: pointer;
+      border: 2px solid #0e0f0f;
+      border-radius: 5px;
+      color: #3498db;
+      transition: background-color 0.3s, color 0.3s;
+}
+.botao{
+    display: inline-block;
+      padding: 10px 20px;
+      font-size: 16px;
+      text-align: center;
+      text-decoration: none;
+      cursor: pointer;
+      border: 2px solid #0e0f0f;
+      border-radius: 5px;
+      color: #3498db;
+      transition: background-color 0.3s, color 0.3s;
+}

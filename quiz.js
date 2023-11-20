@@ -6,12 +6,26 @@ const questions = [
     },
     {
         question: "Quais caracteristicas você admira em um amigo?",
-        options: ["Organizada, Eficiente, Leal, Determinada", "Charmoso, Boa comunicação, Miss simpátia", "Aparece nos momentos certos, Gosta de crianças, Atrativo", "Saturn"],
+        options: ["Organizada, Eficiente, Leal, Determinada", "Charmoso, Boa comunicação, Miss simpátia", "Aparece nos momentos certos, Gosta de crianças, Atrativo","Medico, bonito, rico, forte, inteligente, bom de lábia"],
     
     },
     {
-        question: "Who wrote 'Romeo and Juliet'?",
-        options: ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+        question: "Escolha seu pai",
+        options: ["Mestre dos Assassinos, esperto, carismatico", "Um presidente altamente inteligente e estrategista, disciplinado e sofisticado", "Um bruxo poderoso, incrivelmente inteligente e habilidoso que é capaz de reunir seguidores fervorosos e inspirar lealdade", "Um ser sobrenatural e imortal, que possui uma presença magnética e charmosa"],
+    },
+    {
+        question: "O que você faria para ameaçar alguém?",
+        options: [" Expor o amante do companheiro da pessoa", "Tirar do armário em rede nacional", "Ameaçar com rosas.","Um presidente altamente inteligente e estrategista, disciplinado e sofisticado" , "Um bruxo poderoso, incrivelmente inteligente e habilidoso que é capaz de reunir seguidores fervorosos e inspirar lealdade", "Um ser sobrenatural e imortal, que possui uma presença magnética e charmosa"],
+    },
+    {
+        question: "Como você conquistaria seu par romântico ?",
+        options: ["Se tornaria um criminoso", "Jogue terra na comida dela(e)", "abrigar ela(e)", "Seja comunista"],
+    
+    },
+    {
+        question: "Escolha u inimigo",
+        options: ["Um bruxo teimoso e impulsivo", "Um principe herdeiro indeciso", "Uma jogadora voraz habilidoza e teimosa"],
+    
     }
 ];
 

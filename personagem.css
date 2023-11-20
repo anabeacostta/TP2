@@ -1,6 +1,8 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
+    background-color: black;
+    color: white;
 }
 
 #character-container {
@@ -25,7 +27,7 @@ label {
 }
 
 #save-button {
-    background-color: #008CBA;
+    background-color: #ba0000;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -34,50 +36,58 @@ label {
 
 #t{
     width: 100px;
-    margin-top: -50%;
+    margin-top: 25%;
     position:absolute;
-    margin-right: -50%;
+    margin-right: -330%;
+    opacity: 20%;
 }
 
 #r{
     width: 100px;
     margin-top: 25%;
     position:absolute;
-    margin-left: -207px;
+    margin-left: -226px;
+    opacity: 20%;
 }
 
 #a{
     width: 100px;
     margin-top: 10%;
     position:absolute;
-    margin-left: -529px;
+    margin-left: -305px;
+    opacity: 20%;
 }
 
 #s{
     width: 100px;
     margin-top: 10%;
     position:absolute;
-    margin-left: -360px;
+    margin-left: -174px;
+    opacity: 20%;
 
 }
 
 #l{
     width: 100px;
     margin-top: 10%;
-    margin-left: -207px;
+    margin-left: -39px;
     position:absolute;
+    opacity: 20%;
 }
 
 #j{
     width: 100px;
     margin-top: 25%;
     position:absolute;
+    opacity: 20%;
 }
 
 #c{
     width: 100px;
     margin-top: 10%;
     position:absolute;
+    margin-left: 90px;
+    opacity: 20%;
 }
 
 #n{
@@ -85,9 +95,117 @@ label {
     margin-top: 25%;
     position:absolute;
     margin-left: -360px;
+    opacity: 20%;
+}
+
+#ju{
+    width: 100px;
+    margin-top: 25%;
+    position:absolute;
+    margin-left: -360px;
+    opacity: 20%;
+}
+
+#ja{
+    width: 100px;
+    margin-top: -5%;
+    position:absolute;
+    margin-left: 224px;
+    opacity: 20%;
+}
+
+#jus{
+    width: 100px;
+    margin-top: 25%;
+    position:absolute;
+    margin-left: 224px;
+    opacity: 20%;
+}
+
+#ki{
+    width: 100px;
+    margin-top: 25%;
+    position:absolute;
+    margin-left: -102px;
+    opacity: 20%;
+}
+
+#ma{
+    width: 100px;
+    margin-top: -5%;
+    position:absolute;
+    margin-left: -529px;
+    opacity: 20%;
+}
+
+#mar{
+    width: 100px;
+    margin-top: -5%;
+    position:absolute;
+    margin-left: 344px;
+    opacity: 20%;
+}
+
+#mor{
+    width: 100px;
+    margin-top: 10%;
+    position:absolute;
+    margin-left: 344px;
+    opacity: 20%;
+}
+
+#neh{
+    width: 100px;
+    margin-top: 25%;
+    position:absolute;
+    margin-left: -482px;
+    opacity: 20%;
+}
+
+#po{
+    width: 100px;
+    margin-top: -5%;
+    position:absolute;
+    margin-left: -360px;
+    opacity: 20%;
+}
+
+#rac{
+    width: 100px;
+    margin-top: 25%;
+    position:absolute;
+    margin-left: 344px;
+    opacity: 20%;
+}
+
+#rh{
+    width: 100px;
+    margin-top: 10%;
+    position:absolute;
+    margin-left: -430px;
+    opacity: 20%;
+}
+
+#th{
+    width: 100px;
+    margin-top: 10%;
+    position:absolute;
+    margin-left: 220px;
+    opacity: 20%;
+}
+
+#ti{
+    width: 100px;
+    margin-top: 25%;
+    position:absolute;
+    margin-left: 111px;
+    opacity: 20%;
 }
 
 .pesonagens{
     width: 100px;
     height: 100px;
+    
 }
+
+
