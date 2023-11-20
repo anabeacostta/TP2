@@ -58,6 +58,8 @@ function checkAnswer(index) {
         currentQuestion++;
         displayQuestion();
     }
+
+    alert(selectedOption)
 }
 
 function displayResult() {
@@ -72,11 +74,11 @@ function displayResult() {
 
 function nextQuestion() {
     const optionsContainer = document.getElementById("options-container");
-    optionsContainer.innerHTML = '';
-
+    
     if (currentQuestion < questions.length) {
         displayQuestion();
     }
+    checkAnswer();
 }
 
 // Display the first question on page load

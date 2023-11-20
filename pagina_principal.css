@@ -1,10 +1,11 @@
 body{
     background-color: black;
-   
+    
     
 }
 
 .enter{
+    display: block;
     font-family: 'Courier New', Courier, monospace ;
     font-size: 25px;
     color: white;
@@ -12,6 +13,7 @@ body{
     position: absolute;
     bottom: 0;
     margin: 21% 10%;
+    z-index: 2;
 }
 
 
@@ -38,6 +40,7 @@ body:hover{
     position: absolute;
     bottom: 0;
     margin: 20% 70%;
+    z-index: 2;
 }
 
 h1{
@@ -65,6 +68,7 @@ h1{text-shadow: 0.1em 0.1em 0.2em brown}
     opacity: 16%;
 }
 #portasemgraca {
+    
     height: 342px;
     width: 274px;
     margin-left: 52px;
