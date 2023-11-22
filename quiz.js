@@ -23,7 +23,7 @@ const questions = [
     
     },
     {
-        question: "Escolha u inimigo",
+        question: "Escolha o inimigo",
         options: ["Um bruxo teimoso e impulsivo", "Um principe herdeiro indeciso", "Uma jogadora voraz habilidoza e teimosa"],
     
     }
