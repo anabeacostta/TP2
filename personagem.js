@@ -9,3 +9,9 @@ document.getElementById("save-button").addEventListener("click", function () {
         alert("Por favor, insira um nome para o seu personagem.");
     }
 });
+
+const personagem = document.querySelector('#character-name');
+
+document.querySelector('#save-button').addEventListener('click', () => {
+    localStorage.setItem('nome', personagem.value);
+});
