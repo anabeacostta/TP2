@@ -37,8 +37,9 @@ label {
 #t{
     width: 100px;
     margin-top: 25%;
-    position:absolute;
-    margin-right: -330%;
+    position: absolute;
+    margin-right: 302px;
+    margin-left: -608px;
     opacity: 20%;
 }
 
@@ -94,7 +95,7 @@ label {
     width: 100px;
     margin-top: 25%;
     position:absolute;
-    margin-left: -360px;
+    margin-left: 460px;
     opacity: 20%;
 }
 
@@ -108,9 +109,9 @@ label {
 
 #ja{
     width: 100px;
-    margin-top: -5%;
-    position:absolute;
-    margin-left: 224px;
+    margin-top: 10%;
+    position: absolute;
+    margin-left: 233px;
     opacity: 20%;
 }
 
@@ -132,9 +133,9 @@ label {
 
 #ma{
     width: 100px;
-    margin-top: -5%;
-    position:absolute;
-    margin-left: -529px;
+    margin-top: 8%;
+    position: absolute;
+    margin-left: -561px;
     opacity: 20%;
 }
 
@@ -164,9 +165,9 @@ label {
 
 #po{
     width: 100px;
-    margin-top: -5%;
-    position:absolute;
-    margin-left: -360px;
+    margin-top: 10%;
+    position: absolute;
+    margin-left: 463px;
     opacity: 20%;
 }
 
@@ -212,3 +213,66 @@ label {
 #mor:hover {
     opacity: 1;
 }
+#ti:hover {
+    opacity: 1;
+}
+#thi:hover {
+    opacity: 1;
+}
+#rh:hover {
+    opacity: 1;
+}
+#rac:hover {
+    opacity: 1;
+}
+#po:hover {
+    opacity: 1;
+}
+#jus:hover {
+        opacity: 1;
+    }
+#ju:hover {
+        opacity: 1;
+    }
+#ja:hover {
+        opacity: 1;
+    }
+#n:hover {
+        opacity: 1;
+    }
+#c:hover {
+        opacity: 1;
+    }
+#j:hover {
+        opacity: 1;
+    }
+#l:hover {
+        opacity: 1;
+    }
+#neh:hover {
+        opacity: 1;
+    }
+#mar:hover {
+        opacity: 1;
+    }
+#ki:hover {
+        opacity: 1;
+    }
+#ma:hover {
+        opacity: 1;
+    }
+#s:hover {
+        opacity: 1;
+    }
+#a:hover {
+        opacity: 1;
+    }
+#t:hover {
+        opacity: 1;
+    }
+#r:hover {
+        opacity: 1;
+    }
+#th:hover {
+        opacity: 1;
+    }
