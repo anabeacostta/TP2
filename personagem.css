@@ -276,3 +276,11 @@ label {
 #th:hover {
         opacity: 1;
     }
+
+#s:hover{
+        cursor: pointer;
+        animation: cor 7s infinite;
+        border: green 4px solid;
+    }
+    
+    
